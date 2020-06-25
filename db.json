@@ -1,15 +1,6 @@
 {
 "digilend" : [
 	{
-		"responseCode":"00"
-	},
-	{
-		"responseDesc":"Approved"
-	},
-	{
-		"status":[{"message":"Ok","code":200}]
-	},
-	{
 	"responseCode":"00",
 	"responseDesc":"Approved",
 	"data":[{
