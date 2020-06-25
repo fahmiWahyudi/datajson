@@ -1,7 +1,7 @@
 {
 "digilend" : [
 	{
-		"status":["message":"Ok","code":200]
+		"status":[{"message":"Ok","code":200}]
 	}
 ]
 }
